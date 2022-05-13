@@ -1,5 +1,5 @@
 Region,Gender_of _Victims,Driver_Edu_Level,Driver_Experience,Cars_Service_Years,Vehicle_Types,Vehicles _Owner,Places_of_Accident_ Occurred,Road_Type,Placement_of_ the _Road,RoadConn,RoadSurfaceType,RoadChar,WeatherCond,vehicledefects,AccSeverity
-Addis Ababa,Male,able_read_write,without_license,upto_1years,Bicycle ,Governmental,Rural Area,One Way,Straight and Flat Surface,None Intersection,Good Asphalt,Dry,Good Weather,Brake,Fatal
+Addis Ababa,Male,able_read_write,without_license,upto_1years,Bicycle ,Governmental,Rural Area,One Way,Straight and Flat Surface,None Intersection,Good Asphalt,Dry,Good Weather,Brake,fatall
 Addis Ababa,Male,able_read_write,without_license,upto_1years,Bicycle ,Police,Rural Area,One Way,Straight and Flat Surface,None Intersection,Good Asphalt,Dry,Good Weather,Brake,Fatal
 Addis Ababa,Male,able_read_write,without_license,upto_1years,Bicycle ,Police,Rural Area,One Way,Straight and Flat Surface,None Intersection,Good Asphalt,Dry,Good Weather,Brake,Fatal
 Addis Ababa,Male,able_read_write,without_license,upto_1years,Bicycle ,Police,Rural Area,One Way,Straight and Flat Surface,None Intersection,Good Asphalt,Dry,Good Weather,Brake,Fatal
